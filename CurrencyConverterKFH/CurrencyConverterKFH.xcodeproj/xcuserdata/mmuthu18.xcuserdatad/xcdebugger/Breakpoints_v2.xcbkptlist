@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FDA8BB92-0EDB-4FB8-8EF4-46B1A762CA11"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7363FF8C-BB1A-485D-9CB4-57785E794BB4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/NetworkManager/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "executeRequest(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C8363AFE-0930-4E26-A12A-17023344C38B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/NetworkManager/NetworkService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "executeRequest(request:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D680D12C-F5A7-492F-A1AF-02F34105A59C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "tableView(_:numberOfRowsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1FA965FA-25A5-42D5-A8D7-F0CEEE91E0B2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1FA965FA-25A5-42D5-A8D7-F0CEEE91E0B2 - 6fe3ef50966a984f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "500">
+               </Location>
+               <Location
+                  uuid = "1FA965FA-25A5-42D5-A8D7-F0CEEE91E0B2 - 6fe3ef50966a984f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "284">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C0E37C6D-D426-47EB-A842-4E0588594912"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C0E37C6D-D426-47EB-A842-4E0588594912 - 6fe3ef50966a9b10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "C0E37C6D-D426-47EB-A842-4E0588594912 - 6fe3ef50966a9b10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "908">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FB51631A-4E82-41FA-B3F9-D85A068A41B0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FB51631A-4E82-41FA-B3F9-D85A068A41B0 - 6fe3ef50966a9b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1124">
+               </Location>
+               <Location
+                  uuid = "FB51631A-4E82-41FA-B3F9-D85A068A41B0 - 6fe3ef50966a9b71"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "63"
+                  endingLineNumber = "63"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B82E4D6D-0D33-49E2-9189-21E675CB2F3D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "currencyRatesList"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A8B77D6-71CB-4245-BA85-455B103388D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4A8B77D6-71CB-4245-BA85-455B103388D6 - 8cee0ab9d5b82076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "4A8B77D6-71CB-4245-BA85-455B103388D6 - 8cee0ab9d5b820b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A9CD60B-8FF4-4635-91F0-CF65A896C8BE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0A9CD60B-8FF4-4635-91F0-CF65A896C8BE - 8cee0ab9d5b820b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "0A9CD60B-8FF4-4635-91F0-CF65A896C8BE - 8cee0ab9d5b820b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverterKFH.CurrencyConverterViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CurrencyConverterKFH"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mmuthu18/Documents/Muthu/CurrencyConverterKFH/CurrencyConverterKFH/CurrencyConverterPage/View/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
